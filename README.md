@@ -30,3 +30,18 @@ Este bot Telegram foi desenvolvido para fornecer informações detalhadas sobre 
 - Python 3.x
 - Bibliotecas Python: `telebot`, `requests`, `beautifulsoup4`, `pandas`
 
+
+modificar:
+
+API_KEY = 'SEU_TOKEN_DO_TELEGRAM'
+authorized_chat_ids = ["1926331176", "2012337742", "-1002203336767"]
+
+
+
+
+requerimentos:
+
+telebot
+requests
+beautifulsoup4
+pandas
